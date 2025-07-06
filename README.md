@@ -6,6 +6,12 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 
 ---
 
+## 🌐 Live Demo
+
+🔗 Visit here: [mediqo-nine.vercel.app](https://mediqo-nine.vercel.app)
+
+---
+
 ## 📸 UI Previews
 
 | Homepage | Appointments | Admin Dashboard | Doctor Panel |
@@ -19,7 +25,7 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 ### 🧑‍💼 Admin Panel
 - Full CRUD for doctors, users, and appointments
 - View dashboard insights
-- Real-time updates 
+- Real-time updates
 - Responsive interface
 
 ### 👨‍⚕️ Doctor Panel
@@ -32,7 +38,7 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 - Register/Login securely
 - Book & manage appointments
 - Profile & booking history
-- Automatic email confirmations 
+- Automatic email confirmations
 
 ---
 
@@ -57,7 +63,6 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 - Workflow triggers on CRUD operations
 - Google Sheets integration (optional)
 
-
 ---
 
 ## 🔐 Security
@@ -69,14 +74,12 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 
 ---
 
-
-
 ## 🙋‍♂️ Developer
 
 **👨‍💻 Omkar Shewale**  
-GitHub: [@omkar007-lab](https://github.com/omkar007-lab)  
+GitHub: [@omkar007-lab](https://github.com/omkar007-lab)
 
-
+---
 
 ## ⭐ Support
 
