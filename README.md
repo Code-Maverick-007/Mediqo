@@ -49,11 +49,11 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 - JWT Auth + Bcrypt
 - CORS, dotenv, multer
 
-### 🔹 Automation (BOLT)
+### 🔹 Automation
 - Email notifications on appointment booking
 - Doctor schedule syncing
 - Workflow triggers on CRUD operations
-- Google Sheets integration (optional)
+- Google Sheets integration
 
 ---
 
