@@ -19,7 +19,7 @@ const About: React.FC = () => {
                 Transforming Healthcare Since 2009
               </div>
               <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
-                About <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-400">Prescripto</span>
+                About <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-400">Mediqo</span>
               </h1>
               <p className="text-xl text-blue-100 mb-6 leading-relaxed">
                 We're revolutionizing healthcare by making quality medical services accessible to everyone. 
@@ -211,7 +211,7 @@ const About: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">Prescripto?</span>
+              Why Choose <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">Mediqo?</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               We're committed to providing the best healthcare experience possible

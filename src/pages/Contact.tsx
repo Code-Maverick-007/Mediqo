@@ -220,9 +220,9 @@ const Contact: React.FC = () => {
                     <div>
                       <h3 className="text-lg font-semibold text-gray-900 mb-2">Email</h3>
                       <p className="text-gray-600 leading-relaxed">
-                        General: info@prescripto.com<br />
-                        Support: support@prescripto.com<br />
-                        Appointments: appointments@prescripto.com
+                        General: info@Mediqo.com<br />
+                        Support: support@Mediqo.com<br />
+                        Appointments: appointments@Mediqo.com
                       </p>
                     </div>
                   </div>

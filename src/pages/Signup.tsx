@@ -55,7 +55,7 @@ const Signup: React.FC = () => {
             <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-xl">P</span>
             </div>
-            <span className="text-3xl font-bold text-gray-900">Prescripto</span>
+            <span className="text-3xl font-bold text-gray-900">Mediqo</span>
           </Link>
           <h2 className="mt-6 text-center text-3xl font-bold text-gray-900">
             Create your account

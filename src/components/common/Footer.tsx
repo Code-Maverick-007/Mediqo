@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-lg">P</span>
               </div>
-              <span className="text-2xl font-bold">Prescripto</span>
+              <span className="text-2xl font-bold">Mediqo</span>
             </Link>
             <p className="text-gray-400 text-sm">
               Your trusted healthcare partner providing quality medical services with experienced doctors and modern facilities.
@@ -87,7 +87,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Prescripto. All rights reserved. | Privacy Policy | Terms of Service
+            © 2024 Mediqo. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
