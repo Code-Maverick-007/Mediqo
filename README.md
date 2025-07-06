@@ -12,17 +12,6 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 
 ---
 
-## 📸 UI Previews
-
-![D4AACCD0-E8EA-48BA-B57E-0F61D00C20DD_1_201_a](https://github.com/user-attachments/assets/352639d6-b75b-4b1c-954b-aeac08bd9046)
-
-![B4146531-F41C-4D48-ABDE-B917EC4BBCBB_1_201_a](https://github.com/user-attachments/assets/57385379-b9fa-49f9-9266-1ce
-
-![CBA80392-C19D-4E00-A2DC-A13FC7BE9252_1_201_a](https://github.com/user-attachments/assets/df01ea3a-df11-45da-baa4-8c64a5f7e9e4)
-89e4218e1)
-
----
-
 ## 🚀 Key Features
 
 ### 🧑‍💼 Admin Panel
@@ -87,3 +76,7 @@ GitHub: [@omkar007-lab](https://github.com/omkar007-lab)
 ## ⭐ Support
 
 don’t forget to give it a ⭐ on GitHub!
+
+![D4AACCD0-E8EA-48BA-B57E-0F61D00C20DD_1_201_a](https://github.com/user-attachments/assets/8fd6dce9-9af4-4d99-9b85-d14d0c6fd3e9)
+![B4146531-F41C-4D48-ABDE-B917EC4BBCBB_1_201_a](https://github.com/user-attachments/assets/5eeb754d-8e7b-45cd-bab0-0a4b04019331)
+![CBA80392-C19D-4E00-A2DC-A13FC7BE9252_1_201_a](https://github.com/user-attachments/assets/9da5e992-1386-4a9d-884a-a63f0c45bcca)
