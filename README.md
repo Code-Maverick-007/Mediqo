@@ -14,9 +14,12 @@ Mediqo is a powerful full-stack healthcare web application that enables patients
 
 ## 📸 UI Previews
 
-| Homepage | Appointments | Admin Dashboard | Doctor Panel |
-|----------|--------------|------------------|---------------|
-| ![](./assets/screenshots/home.png) | ![](./assets/screenshots/appointments.png) | ![](./assets/screenshots/admin.png) | ![](./assets/screenshots/doctor.png) |
+![D4AACCD0-E8EA-48BA-B57E-0F61D00C20DD_1_201_a](https://github.com/user-attachments/assets/352639d6-b75b-4b1c-954b-aeac08bd9046)
+
+![B4146531-F41C-4D48-ABDE-B917EC4BBCBB_1_201_a](https://github.com/user-attachments/assets/57385379-b9fa-49f9-9266-1ce
+
+![CBA80392-C19D-4E00-A2DC-A13FC7BE9252_1_201_a](https://github.com/user-attachments/assets/df01ea3a-df11-45da-baa4-8c64a5f7e9e4)
+89e4218e1)
 
 ---
 
